@@ -1,2 +1,2 @@
 # DSA
-DSA Journey of mine from scratch...
+Complete DSA Journey of "Supreme Batch" by Satyam
